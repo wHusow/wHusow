@@ -12,4 +12,3 @@
 
 ### Takıldığım yer ve beni burada bulabilirsiniz
 
-[discord]: https://discord.gg/xMvc4vHThe
